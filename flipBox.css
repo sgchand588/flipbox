@@ -1,0 +1,45 @@
+body {
+	    min-height: 626px;
+}
+.flipBox {
+		height: 350px;;
+		width: 500px;
+		background-color: green;
+		border-radius: 5px;
+		margin: 0;
+		display: inline-block;
+		top: 101px;
+		position: relative;
+}
+						
+}
+.flipBox-Container{
+		margin-left: 98px;	
+}
+.left-arrow {
+	display: inline-block;	
+	position: relative;
+    top: 268px;
+    right: -30px;
+	
+}
+.right-arrow {
+	display: inline-block;
+	position: relative;
+    left: 552px;
+    top: 267px;
+	
+}
+.top-arrow {
+	display: inline-block;
+	position: relative;
+    left: 249px;
+    bottom: -69px;
+	
+}
+.down-arrow {
+	display: inline-block;
+	position: relative;
+    top: 461px;
+     left: 244px;
+}
